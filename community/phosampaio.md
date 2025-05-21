@@ -10,4 +10,4 @@ Olá! eu me chamo Pedro e estou iniciando minha jornada na programação.
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=phosampaio-rnz&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=phosampaio-rnz&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/phosampaio-rnz/dio-lab-open-source.git)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=phosampaio-rnz&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/phosampaio-rnz/dio-lab-open-source)
